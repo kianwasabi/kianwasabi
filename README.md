@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kianwasabi
-- 👀 I’m interested in Embedded Systems. 
-- 🌱 I’m currently learning Python. 
+- 👀 I’m interested in Embedded Systems, Python, C, C++. 
+- 🌱 I’m currently learning Python & how to work with GitHub. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
