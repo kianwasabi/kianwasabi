@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kianwasabi
-- 👀 I’m interested in Projects in Matlab, Embedded Systems, Python, C & C++. 
-- 🌱 I’m currently learning web development in Python.
+- 👀 I’m interested in Projects in Matlab, Python, C & C++. 
 
 <!---
 kianwasabi/kianwasabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
