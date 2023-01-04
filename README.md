@@ -12,8 +12,6 @@ HTML
 VHDL
 Matlab/Mathworks
 
-![HTML5](https://user-images.githubusercontent.com/55065075/210636102-db50db0a-d709-4240-89c7-e70a5d623655.png)
-
 
 <!---
 kianwasabi/kianwasabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
