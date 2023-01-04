@@ -1,7 +1,9 @@
-- Hi, I’m @kianwasabi
-- I’m interested in Projects Hard-&Softwareprojects in 
--   Signal-&Informationprocessing in Matlab
+Hi, I’m @kianwasabi
+I’m a electrical engineer with a passion for projects Hard-&Softwareprojects in 
+-   Signal, Image & Information Processing in Matlab
+-   Machine learning for predictive maintenance in Matlab & Python
 -   Web Application and ioT Projects in Python & C 
+-   .... 
 
 <!---
 kianwasabi/kianwasabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
