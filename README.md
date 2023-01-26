@@ -5,12 +5,12 @@ I’m a electrical engineer with a passion for projects Hard-&Softwareprojects i
 -   Web Application and ioT Projects with Python & C
 -   .... 
 
-C
-C++
-Python
-HTML
-VHDL
-Matlab/Mathworks
+C </br>
+C++</br>
+Python</br>
+HTML</br>
+VHDL</br>
+Matlab/Mathworks</br>
 
 
 <!---
