@@ -4,10 +4,10 @@ Hi, I’m @kianwasabi
 I’m a electrical engineer with a passion for projects Hard-&Software Projects - For instance 
 -   Signal, Image & Information Processing in Matlab
 -   Machine learning for predictive maintenance in Matlab & Python
--   Web Application and ioT Projects with Python & C
+-   Web Application and ioT Projects with Python & C++
 -   .... 
 
-- :books: I’m currently learning Python & http/css
+- :books: I’m currently learning REST-APIs & OPC/UA Python & frontend with http/css
 - :computer: Techs:&nbsp;
 - :pushpin: Interests: 
 
