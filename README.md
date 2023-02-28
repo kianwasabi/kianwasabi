@@ -1,4 +1,4 @@
-## :wave: Hi you!
+## Hi you! I'm glade to see you here! :wave:
 
 Hi, I’m @kianwasabi
 I’m a electrical engineer with a passion for projects Hard-&Software Projects - For instance 
