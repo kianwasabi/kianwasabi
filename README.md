@@ -7,7 +7,7 @@ I’m a electrical engineer with a passion for projects Hard-&Software Projects 
 -   Web Application and ioT Projects with Python & C++
 
 :books: I’m currently learning: REST-APIs in Python, Frontend-Development with http/css/js, expressif framework for esp32 <br>
-:computer: Techs:&nbsp; <br>
+:computer: Techs:&nbsp;
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
