@@ -8,7 +8,7 @@ I’m a electrical engineer with a passion for projects Hard-&Software Projects 
 
 :books: I’m currently learning: REST-APIs in Python, Frontend-Development with http/css/js, expressif framework for esp32 <br>
 :computer: Techs:&nbsp; <br>
-:pushpin: Interests: 🎿: 🎾: 🤖<br>
+:pushpin: Interests: 🎿 🎾 🤖 <br>
 
 <!---
 kianwasabi/kianwasabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
