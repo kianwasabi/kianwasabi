@@ -2,12 +2,7 @@
 
 Hi, I’m @kianwasabi
 I’m an electrical engineer with a passion for projects Hard-&Software Projects - For instance 
--   Signal, Image & Information Processing in Matlab
--   Machine learning for predictive maintenance in Matlab & Python
--   Web Applications and IoT Projects with Python & C++
-
+-   Signal, Image & Information Processing, Machine learning, IoT Projects. 
 :books: Member & Student of the SEA:ME Network - Software Engineering for Automotive and Ecosystems <br>
-
-
 :pushpin: Interests: 🎿 🎾 🤖 <br>
 
