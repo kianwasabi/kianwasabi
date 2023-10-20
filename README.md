@@ -10,7 +10,6 @@ I’m an electrical engineer with a passion for Hard-&Software projects <br>
 ## Skills
 <!--
 <div align="center">
- 
   ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Github-181717.svg?style=flat&logo=github&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
@@ -23,10 +22,9 @@ I’m an electrical engineer with a passion for Hard-&Software projects <br>
   ![Static Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
-
-
 </div>
 -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,c,cpp,cmake,arduino,raspberrypi,python,html,css,react,javascript,nodejs,typescript,nestjs,flutter&perline=6)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagavulin9&layout=compact&hide=Objective-C,Roff&langs_count=8)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,c,cpp,cmake,arduino,raspberrypi,python,html,css&perline=6)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianwasabi&layout=compact&hide=Objective-C,Roff&langs_count=8)
