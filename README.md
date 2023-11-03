@@ -4,7 +4,7 @@ Hi, I’m @kianwasabi
 I’m an electrical engineer with a passion for Hard-&Software projects <br>
 👀 Signal, Image & Information Processing, Machine learning, IoT Projects on (embedded) devices. <br>
 📚 Member & Student of [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) <br>
-💼 MES & Industial Automation for Industial Use-Cases <br>
+💼 Manufacturing Executiv Systems in the Automotiv Industry <br>
 :pushpin: Interests beside bits&bytes: 🎿 🎾 <br>
 
 ## Skills
@@ -14,11 +14,15 @@ I’m an electrical engineer with a passion for Hard-&Software projects <br>
   ![Static Badge](https://img.shields.io/badge/Github-181717.svg?style=flat&logo=github&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Arduino-00878F.svg?style=flat&logo=arduino&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/RaspberriPi-A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
+</div>
+-->
+<!--
+<div align="center">
   ![Static Badge](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=c&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Makefile-A42E2B.svg?style=flat&logo=gnu&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Arduino-00878F.svg?style=flat&logo=arduino&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/RaspberriPi-A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
