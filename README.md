@@ -6,6 +6,7 @@ I’m an electrical engineer with a passion for Hard-&Software projects <br>
 📚 Member & Student of [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) <br>
 💼 Manufacturing Executiv Systems in the Automotiv Industry <br>
 :pushpin: Interests beside bits&bytes: 🎿 🎾 <br>
+Currents working an: [SEA:ME - DES03 Head Unit](https://github.com/SEA-ME/DES_Head-Unit)<br>
 
 ## Skills
 <!--
