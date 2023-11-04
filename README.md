@@ -1,8 +1,8 @@
 ## :shipit: Hi you! I'm glade to see you here! :wave:
 
 Hi, I’m @kianwasabi
-I’m an electrical engineer with a passion for Software projects <br>
-👀 Signal, Image & Information Processing, IoT, Embedded. <br>
+I’m an electrical/software engineer with a passion for hands-on projects. <br>
+👀 Open Source Software for the next gen of mobility. <br>
 📚 Member & Student of [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) <br>
 💼 Manufacturing Executiv Systems in the Automotiv Industry <br>
 :pushpin: Interests beside bits&bytes: 🎿 🎾 <br>
