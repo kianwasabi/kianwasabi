@@ -1,12 +1,12 @@
 ## :shipit: Hi you! I'm glade to see you here! :wave:
 
 Hi, I’m @kianwasabi
-I’m an electrical engineer with a passion for Hard-&Software projects <br>
-👀 Signal, Image & Information Processing, Machine learning, IoT Projects on (embedded) devices. <br>
+I’m an electrical engineer with a passion for Software projects <br>
+👀 Signal, Image & Information Processing, IoT, Embedded. <br>
 📚 Member & Student of [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) <br>
 💼 Manufacturing Executiv Systems in the Automotiv Industry <br>
 :pushpin: Interests beside bits&bytes: 🎿 🎾 <br>
-Currents working an: [SEA:ME - DES03 Head Unit](https://github.com/SEA-ME/DES_Head-Unit)<br>
+Currents working an: [SEA:ME - DES03 Head Unit](https://github.com/SEA-ME/DES_Head-Unit) (ECU Communication with Convesa's CommonAPI (SOME/IP IPC binding) - User interaction via Flutter) <br>
 
 ## Skills
 <!--
