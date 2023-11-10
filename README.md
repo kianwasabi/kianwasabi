@@ -4,9 +4,9 @@ Hi, I’m @kianwasabi
 I’m an electrical/software engineer with a passion for hands-on projects. <br>
 👀 Open Source Software for the next gen of mobility. <br>
 📚 Member & Student of [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) <br>
-💼 Manufacturing Executiv Systems in the Automotiv Industry <br>
-:pushpin: Interests beside bits&bytes: 🎿 🎾 <br>
-Currents working on: [SEA:ME - DES03 Head Unit](https://github.com/SEA-ME/DES_Head-Unit) (ECU Communication with Convesa's CommonAPI (SOME/IP IPC binding) - User interaction via Flutter) <br>
+💼 Project-Managment for large-scaled Manufacturing Executiv Systems in the Automotiv Industry. <br>
+:pushpin: Personal Interests: 🎿 🎾 <br>
+Currents working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
 
 ## Skills
 <!--
