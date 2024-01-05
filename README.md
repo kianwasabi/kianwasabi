@@ -1,11 +1,15 @@
 ## :shipit: Hi you! I'm glade to see you here! :wave:
 
-Hi, I’m @kianwasabi
-I’m an electrical/software engineer with a passion for hands-on projects. <br>
-👀 Open Source Software for the next gen of mobility. <br>
-📚 [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) <br>
-:pushpin: Personal Interests: 🎿 🎾 <br>
-Currents working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
+I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
+
+**👀 Interests:**
+Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
+    
+**📚 Currently enrolled at:**
+[SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) & working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
+
+**🍪 Personal Interests:**
+🎿, 🎾 <br>
 
 ## Skills
 <!--
