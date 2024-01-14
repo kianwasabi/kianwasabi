@@ -1,7 +1,7 @@
 ## :shipit: Hi you! I'm glade to see you here! :wave:
 
 I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
-## About me:
+## About me
 **👀 Interests:** <br>
 Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
 
@@ -18,7 +18,7 @@ working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Un
 **🍪 Personal Interests:**
 🎿, 🎾 <br>
 
-## Worked with:
+## Worked with
 <!--
 <div align="center">
   ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white)
