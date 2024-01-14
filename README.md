@@ -6,10 +6,10 @@ I’m @kianwasabi, an information technology engineer with a passion for hands-o
 Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
 
 **Projects:** <br>
-[Project Managment, How-to's, Templates](https://github.com/stars/kianwasabi/lists/how-to) <br>
-[Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
-[web&IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
-[Automotiv & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
+- [Project Managment, How-to's, Templates](https://github.com/stars/kianwasabi/lists/how-to) <br>
+- [Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
+- [web&IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
+- [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
 **📚 Currently enrolled at:** <br>
 [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) & working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
