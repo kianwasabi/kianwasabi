@@ -4,6 +4,10 @@ I’m @kianwasabi, an information technology engineer with a passion for hands-o
 
 **👀 Interests:**
 Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
+
+** Projects: ** 
+[Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)
+
     
 **📚 Currently enrolled at:**
 [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) & working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
