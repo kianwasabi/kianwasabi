@@ -1,7 +1,7 @@
 ## :shipit: Hi you! I'm glade to see you here! :wave:
 
 I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
-
+## About me:
 **👀 Interests:** <br>
 Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
 
@@ -12,7 +12,8 @@ Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
 - [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
 **📚 Currently enrolled at:** <br>
-[SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) & working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
+[SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/)  <br> 
+working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
 
 **🍪 Personal Interests:**
 🎿, 🎾 <br>
