@@ -2,22 +2,22 @@
 
 I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
 
-**👀 Interests:**
+**👀 Interests:** <br>
 Open Source Enthustast, Signal Processing, Embedded & Linux, IoT & Web
 
-**Projects:** 
+**Projects:** <br>
 [Project Managment, How-to's, Templates](https://github.com/stars/kianwasabi/lists/how-to) <br>
 [Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
 [web&IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
 [Automotiv & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
-**📚 Currently enrolled at:**
+**📚 Currently enrolled at:** <br>
 [SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/) & working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
 
 **🍪 Personal Interests:**
 🎿, 🎾 <br>
 
-## Skills
+## Worked with:
 <!--
 <div align="center">
   ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white)
