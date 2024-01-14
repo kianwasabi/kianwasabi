@@ -1,5 +1,4 @@
-## :shipit: Hi you! I'm glade to see you here! :wave:
-
+Hi you! I'm glade to see you here! <br>
 I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
 ## About me
 **👀 Interests:** <br>
