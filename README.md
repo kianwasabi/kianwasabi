@@ -11,10 +11,9 @@ The following lists summarize the repos by subject:
 - 📲 [web&IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
 - 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
-**📚 Currently enrolled at:** <br>
-[SEA:ME - Software Engineering for Automotive and Ecosystems](https://seame.space/)  <br> 
-working on: [SEA:ME - DES03 Head Unit](https://github.com/Lagavulin9/DES_Head-Unit)<br>
-
+**📚 Currently working on:** <br>
+[DES03](https://github.com/Lagavulin9/DES_Head-Unit) & [DES04](https://github.com/DES-Team-02/DES_4_PDC)<br>
+of [SEA:ME' Cirriculum (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br> 
 ## Worked with
 <!--
 <div align="center">
