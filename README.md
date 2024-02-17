@@ -8,7 +8,7 @@ Open Source Enthustast, Signal Processing, Embedded, Linux, IoT & Web
 The following lists summarize the repos by subject:
 - 💡 [Project Management, Templates, Guides](https://github.com/stars/kianwasabi/lists/how-to) <br>
 - 🚦 [Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
-- 📲 [web&IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
+- 📲 [web & IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
 - 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
 **📚 Currently working on:** <br>
