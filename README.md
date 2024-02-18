@@ -12,8 +12,8 @@ The following lists summarize the repos by subject:
 - 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
 **📚 Currently working on:** <br>
-[DES03](https://github.com/Lagavulin9/DES_Head-Unit) & [DES04](https://github.com/DES-Team-02/DES_4_PDC) 
-of [SEA:ME's Cirriculum (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br> 
+[DES04](https://github.com/DES-Team-02/DES_4_PDC) 
+at [SEA:ME (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br> 
 ## Worked with
 <!--
 <div align="center">
