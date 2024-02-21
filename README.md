@@ -2,14 +2,14 @@ Hi you! I'm glade to see you here! <br>
 I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
 ## About me
 **👀 Interests:** <br>
-Open Source Enthustast, Signal Processing, Embedded, Linux, IoT & Web
+Open Source Enthustast
 
 **📽 Projects:** <br>
 The following lists summarize the repos by subject:
 - 💡 [Project Management, Templates, Guides](https://github.com/stars/kianwasabi/lists/how-to) <br>
 - 🚦 [Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
 - 📲 [web & IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
-- 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
+- 🚋 [Automotive](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
 **📚 Currently working on:** <br>
 [DES04](https://github.com/DES-Team-02/DES_4_PDC) 
