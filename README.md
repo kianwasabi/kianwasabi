@@ -35,6 +35,7 @@ at [SEA:ME (Software Engineering for Automotive and Ecosystems)](https://seame.s
 </div>
 -->
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,c,cpp,cmake,arduino,raspberrypi,python,html,css&perline=6)](https://skillicons.dev)
-
+<!--
 ## Most used 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianwasabi&layout=compact&hide=Objective-C,Roff&langs_count=8)
+-->
