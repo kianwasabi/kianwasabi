@@ -1,4 +1,3 @@
-Hello - I'm glade to see you here. I’m @kianwasabi, an engineer with a passion for hands-on projects. <br>
 ## About me
 **👀 Interests:** <br>
 - Open Source Enthustast. <br>
