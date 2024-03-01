@@ -1,17 +1,17 @@
-Hi you! I'm glade to see you here! <br>
-I’m @kianwasabi, an information technology engineer with a passion for hands-on projects. <br>
+Hello - I'm glade to see you here. I’m @kianwasabi, an engineer with a passion for hands-on projects. <br>
 ## About me
 **👀 Interests:** <br>
-Open Source Enthustast
+- Open Source Enthustast. <br>
+- Fun Stuff with Code. <br>
 
 **📽 Projects:** <br>
 - 💡 [How To's](https://github.com/stars/kianwasabi/lists/how-to) <br>
 - 🚦 [Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
 - 📲 [Web & IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
 - 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
-    
+
 **📚 Currently working on:** <br>
-[DES04](https://github.com/DES-Team-02/DES_4_PDC) 
+- [DES04](https://github.com/DES-Team-02/DES_4_PDC) 
 at [SEA:ME (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br> 
 ## Worked with
 <!--
