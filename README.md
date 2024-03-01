@@ -5,10 +5,10 @@ I’m @kianwasabi, an information technology engineer with a passion for hands-o
 Open Source Enthustast
 
 **📽 Projects:** <br>
-- 💡 [Project Management, Templates, Guides](https://github.com/stars/kianwasabi/lists/how-to) <br>
+- 💡 [How To's](https://github.com/stars/kianwasabi/lists/how-to) <br>
 - 🚦 [Signal Processing & Embedded](https://github.com/stars/kianwasabi/lists/signal-processing-embedded)<br>
 - 📲 [Web & IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
-- 🚋 [Automotive](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
+- 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
     
 **📚 Currently working on:** <br>
 [DES04](https://github.com/DES-Team-02/DES_4_PDC) 
