@@ -10,8 +10,7 @@
 - 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
 
 **📚 Currently working on:** <br>
-- [DES04](https://github.com/DES-Team-02/DES_4_PDC) 
-at [SEA:ME (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br>
+- [SEA:ME (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br>
 
 ## Worked with
 <!-- ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white) -->
