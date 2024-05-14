@@ -9,9 +9,6 @@
 - 📲 [Web & IoT](https://github.com/stars/kianwasabi/lists/web-iot-smart-home)<br>
 - 🚋 [Automotive & Mobility Ecosystems](https://github.com/stars/kianwasabi/lists/automotive-ecosystems)<br>
 
-**📚 Currently working on:** <br>
-- [SEA:ME (Software Engineering for Automotive and Ecosystems)](https://seame.space/)  <br>
-
 ## Worked with
 <!-- ![Static Badge](https://img.shields.io/badge/Git-F050532.svg?style=flat&logo=git&logoColor=white) -->
 ![Static Badge](https://img.shields.io/badge/Github-181717.svg?style=flat&logo=github&logoColor=white)
